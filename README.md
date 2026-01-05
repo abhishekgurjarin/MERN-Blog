@@ -47,7 +47,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/abhishekboadgurjar/mern-blog.git  
+   git clone https://github.com/abhishekgurjarin/mern-blog.git  
    cd mern-blog  
    ```  
 
@@ -112,5 +112,5 @@ Contributions are welcome! Follow these steps:
 
 ## 📧 Contact  
 
-- **GitHub**: [abhishekboadgurjar](https://github.com/abhishekboadgurjar)  
+- **GitHub**: [abhishekboadgurjar](https://github.com/abhishekgurjarin)  
   
